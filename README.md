@@ -1,2 +1,0 @@
-# jenaandsons.io
- sample site
